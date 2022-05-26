@@ -25,7 +25,7 @@ def excursion(choice):
     eventdragon = random.randint(1,2)
 
     if choice == str(eventdragon):
-        print("gives you his treasure!")
+        print("gives you his treasure!!")
     else:
         print("gobbles you down!")
 
