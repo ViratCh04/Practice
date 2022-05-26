@@ -18,7 +18,7 @@ def excursion(choice):
     time.sleep(2)
     print("You hear some noise....")
     time.sleep(2)
-    print("A large dragon jumps at you and...........")
+    print("A large dragon jumps at you and..........")
     print()
     time.sleep(2)
 
