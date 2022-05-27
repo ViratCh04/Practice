@@ -18,6 +18,6 @@ for guesses in range(1, 7):
         break;
 
 if guess == secret:
-    print('PERFECT JOB! ' + name + '! You have guessed the number correctly')
+    print('PERFECT JOB! ' + name + '! You have guessed the number correctly in ' + str(guesses) + ' guesses!')
 else:
     print('Bzzzzt. Your guesses are up. The number I was thinking of is ' + str(secret))
