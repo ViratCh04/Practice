@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Coding\practice\automateboringal\debugging\raiseassert.py", line 9, in boxprint
+    raise exception('"height" and "width" need to be greater than 2')
+TypeError: exceptions must derive from BaseException
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Coding\practice\automateboringal\debugging\raiseassert.py", line 9, in boxprint
+    raise exception('"height" and "width" need to be greater than 2')
+TypeError: exceptions must derive from BaseException
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Coding\practice\automateboringal\debugging\raiseassert.py", line 9, in boxprint
+    raise exception('"height" and "width" need to be greater than 2')
+TypeError: exceptions must derive from BaseException
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Coding\practice\automateboringal\debugging\raiseassert.py", line 9, in boxprint
+    raise exception('"height" and "width" need to be greater than 2')
+TypeError: exceptions must derive from BaseException
