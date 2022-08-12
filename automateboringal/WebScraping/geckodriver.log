@@ -1,0 +1,321 @@
+1660216727293	geckodriver	INFO	Listening on 127.0.0.1:49275
+1660216729342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilea4881h"
+1660216731171	Marionette	INFO	Marionette enabled
+1660216731194	Marionette	INFO	Listening on port 49285
+Read port: 49285
+WebDriver BiDi listening on ws://localhost:49276
+1660216731742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilea4881h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49276/devtools/browser/eb702486-872b-4c94-9de3-1173fa80743a
+1660216774138	Marionette	INFO	Stopped listening on port 49285
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660216855617	geckodriver	INFO	Listening on 127.0.0.1:49378
+1660216857678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileiPNKR2"
+1660216858832	Marionette	INFO	Marionette enabled
+1660216858854	Marionette	INFO	Listening on port 49388
+WebDriver BiDi listening on ws://localhost:49379
+Read port: 49388
+1660216859330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileiPNKR2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49379/devtools/browser/b2ca153b-aab7-4665-9928-7c8bc3883c0d
+1660216906676	Marionette	INFO	Stopped listening on port 49388
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660216923104	geckodriver	INFO	Listening on 127.0.0.1:49423
+1660216925108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilep8wTng"
+1660216926270	Marionette	INFO	Marionette enabled
+1660216926291	Marionette	INFO	Listening on port 49434
+WebDriver BiDi listening on ws://localhost:49424
+Read port: 49434
+1660216926762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilep8wTng\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49424/devtools/browser/fcb059ed-e05e-46c8-af51-f1547134e220
+1660216943231	Marionette	INFO	Stopped listening on port 49434
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\USER\AppData\Local\Temp\rust_mozprofilep8wTng\protections.sqlite
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 595: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 595: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1660217259401	geckodriver	INFO	Listening on 127.0.0.1:49482
+1660217261453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilexZ7NiE"
+1660217262576	Marionette	INFO	Marionette enabled
+1660217262605	Marionette	INFO	Listening on port 49492
+WebDriver BiDi listening on ws://localhost:49483
+Read port: 49492
+1660217263066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilexZ7NiE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49483/devtools/browser/d66dac10-ea5e-41d7-90fe-1c8c3dacb3c1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660217889864	Marionette	INFO	Stopped listening on port 49492
+1660217893189	geckodriver	INFO	Listening on 127.0.0.1:49623
+1660217895255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49624" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileo6tsCK"
+1660217896378	Marionette	INFO	Marionette enabled
+1660217896399	Marionette	INFO	Listening on port 49633
+WebDriver BiDi listening on ws://localhost:49624
+Read port: 49633
+1660217896862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileo6tsCK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49624/devtools/browser/a6946df0-cde5-486b-b2b9-1db848cbe823
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+JavaScript warning: https://fdgfqexkawdmyl6xq.ay.delivery/ivt/fDgfQExKAwDmYL6Xq/ivt.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660217934215	Marionette	INFO	Stopped listening on port 49633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1660218248595	geckodriver	INFO	Listening on 127.0.0.1:49745
+1660218250648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49746" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilez04RFK"
+1660218251793	Marionette	INFO	Marionette enabled
+1660218251813	Marionette	INFO	Listening on port 49755
+WebDriver BiDi listening on ws://localhost:49746
+Read port: 49755
+1660218252276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilez04RFK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49746/devtools/browser/ab207217-1ee2-4e24-b50a-160a8d4a7c24
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+JavaScript warning: https://fdgfqexkawdmyl6xq.ay.delivery/ivt/fDgfQExKAwDmYL6Xq/ivt.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660218321040	Marionette	INFO	Stopped listening on port 49755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660218328468	geckodriver	INFO	Listening on 127.0.0.1:49844
+1660218330530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileU6AofO"
+1660218331652	Marionette	INFO	Marionette enabled
+1660218331675	Marionette	INFO	Listening on port 49854
+WebDriver BiDi listening on ws://localhost:49845
+Read port: 49854
+1660218332099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileU6AofO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49845/devtools/browser/2378c4a5-98b9-4583-b9a4-e95deace7843
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660218408006	Marionette	INFO	Stopped listening on port 49854
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660218499824	geckodriver	INFO	Listening on 127.0.0.1:50089
+1660218501867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilewjInDm"
+1660218503041	Marionette	INFO	Marionette enabled
+1660218503063	Marionette	INFO	Listening on port 50099
+Read port: 50099
+WebDriver BiDi listening on ws://localhost:50090
+1660218503515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilewjInDm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50090/devtools/browser/10e1ed7c-c4b6-49bf-81f5-7f1863a30388
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+JavaScript warning: https://fdgfqexkawdmyl6xq.ay.delivery/ivt/fDgfQExKAwDmYL6Xq/ivt.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660218721948	Marionette	INFO	Stopped listening on port 50099
+1660218743025	geckodriver	INFO	Listening on 127.0.0.1:50220
+1660218745071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile41so8j"
+1660218746216	Marionette	INFO	Marionette enabled
+1660218746237	Marionette	INFO	Listening on port 50230
+WebDriver BiDi listening on ws://localhost:50221
+Read port: 50230
+1660218746706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile41so8j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50221/devtools/browser/977bbbc1-fc91-4efe-a7db-5dea84f6d102
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660219032413	Marionette	INFO	Stopped listening on port 50230
+[Parent 3308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1660219038700	geckodriver	INFO	Listening on 127.0.0.1:50331
+1660219040763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50332" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileggXhCz"
+1660219041878	Marionette	INFO	Marionette enabled
+1660219041939	Marionette	INFO	Listening on port 50341
+WebDriver BiDi listening on ws://localhost:50332
+Read port: 50341
+1660219042402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileggXhCz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50332/devtools/browser/a6203ebb-ed86-4b7b-9927-ec3fd2b62e00
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660219056581	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://fdgfqexkawdmyl6xq.ay.delivery/ivt/fDgfQExKAwDmYL6Xq/ivt.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660219227897	Marionette	INFO	Stopped listening on port 50341
+1660219434233	geckodriver	INFO	Listening on 127.0.0.1:50458
+1660219436296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileVlzlY4"
+1660219437403	Marionette	INFO	Marionette enabled
+1660219437427	Marionette	INFO	Listening on port 50468
+WebDriver BiDi listening on ws://localhost:50459
+Read port: 50468
+1660219437888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileVlzlY4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50459/devtools/browser/48561b91-3469-49ba-9153-c57a40ed9c43
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660219460328	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://fdgfqexkawdmyl6xq.ay.delivery/ivt/fDgfQExKAwDmYL6Xq/ivt.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 94))
+console.error: "Error while calling actor 'target-configuration's method 'updateConfiguration'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 94))
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 94))
+console.error: "Error while calling actor 'target-configuration's method 'updateConfiguration'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 94))
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 94))
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 94))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.target-configuration4, type updateConfiguration failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+updateConfiguration@resource://devtools/shared/commands/target-configuration/target-configuration-command.js:51:48
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.target-configuration4, type updateConfiguration failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+updateConfiguration@resource://devtools/shared/commands/target-configuration/target-configuration-command.js:51:48
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.watcher2, type watchResources failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+_startListening@resource://devtools/shared/commands/resource/resource-command.js:992:31
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660219476700	Marionette	INFO	Stopped listening on port 50468
+1660219483842	geckodriver	INFO	Listening on 127.0.0.1:50566
+1660219485901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile78jMpt"
+1660219487496	Marionette	INFO	Marionette enabled
+1660219487517	Marionette	INFO	Listening on port 50576
+WebDriver BiDi listening on ws://localhost:50567
+Read port: 50576
+1660219488001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile78jMpt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50567/devtools/browser/22049ed0-ea2f-4d52-afed-df8cb0bd351f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660219509765	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://fdgfqexkawdmyl6xq.ay.delivery/ivt/fDgfQExKAwDmYL6Xq/ivt.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660219527570	Marionette	INFO	Stopped listening on port 50576
+[Parent 1760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660219572739	geckodriver	INFO	Listening on 127.0.0.1:50687
+1660219574808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilerysLGU"
+1660219575968	Marionette	INFO	Marionette enabled
+1660219575990	Marionette	INFO	Listening on port 50697
+WebDriver BiDi listening on ws://localhost:50688
+Read port: 50697
+1660219576445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilerysLGU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50688/devtools/browser/99b72acd-8503-493b-9a7b-88bdcf81a5a7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660219598792	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660219622900	Marionette	INFO	Stopped listening on port 50697
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+[Parent 5656, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+1660219661490	geckodriver	INFO	Listening on 127.0.0.1:50779
+1660219663570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50780" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilePNWIl4"
+1660219664840	Marionette	INFO	Marionette enabled
+1660219664870	Marionette	INFO	Listening on port 50789
+Read port: 50789
+WebDriver BiDi listening on ws://localhost:50780
+1660219665437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilePNWIl4\\search.json.mozlz4", (void 0)))
+1660219686059	geckodriver	INFO	Listening on 127.0.0.1:50798
+1660219688129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileBOoAwR"
+1660219689271	Marionette	INFO	Marionette enabled
+1660219689296	Marionette	INFO	Listening on port 50808
+WebDriver BiDi listening on ws://localhost:50799
+Read port: 50808
+1660219689745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileBOoAwR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50799/devtools/browser/645520a3-c274-4a6e-a3f1-14b2bdcd18d6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660219705041	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660219738311	Marionette	INFO	Stopped listening on port 50808
+!!! error running onStopped callback: TypeError: callback is not a function
+1660219778242	geckodriver	INFO	Listening on 127.0.0.1:50917
+1660219780310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilecL0wzC"
+1660219781459	Marionette	INFO	Marionette enabled
+1660219781479	Marionette	INFO	Listening on port 50927
+WebDriver BiDi listening on ws://localhost:50918
+Read port: 50927
+1660219781963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilecL0wzC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50918/devtools/browser/73d6f862-8632-4c24-bd29-691516bbc809
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660219796155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1660219797853	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1660219805515	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://monkeytype.com"
+1660219820614	Marionette	INFO	Stopped listening on port 50927
+[Parent 5516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
